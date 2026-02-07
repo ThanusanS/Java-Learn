@@ -1,0 +1,61 @@
+Java-Learn Folder Structure
+
+Java-Learn/
+│
+├── README.md
+├── src/
+│   ├── basics/
+│   │   ├── HelloWorld.java
+│   │   ├── Variables.java
+│   │   ├── DataTypes.java
+│   │   ├── Operators.java
+│   │   ├── Loops.java
+│   │   └── ConditionalStatements.java
+│   │
+│   ├── oop/
+│   │   ├── ClassesAndObjects.java
+│   │   ├── InheritanceDemo.java
+│   │   ├── PolymorphismDemo.java
+│   │   ├── EncapsulationDemo.java
+│   │   └── AbstractionDemo.java
+│   │
+│   ├── collections/
+│   │   ├── ArrayListDemo.java
+│   │   ├── LinkedListDemo.java
+│   │   ├── HashMapDemo.java
+│   │   ├── HashSetDemo.java
+│   │   └── QueueDemo.java
+│   │
+│   ├── exceptions/
+│   │   ├── TryCatchDemo.java
+│   │   ├── MultipleCatchDemo.java
+│   │   └── CustomExceptionDemo.java
+│   │
+│   ├── threads/
+│   │   ├── ThreadDemo.java
+│   │   └── RunnableDemo.java
+│   │
+│   ├── fileio/
+│   │   ├── FileReaderDemo.java
+│   │   └── FileWriterDemo.java
+│   │
+│   ├── jdbc/
+│   │   └── DatabaseDemo.java
+│   │
+│   ├── generics/
+│   │   └── GenericDemo.java
+│   │
+│   ├── lambda/
+│   │   └── LambdaDemo.java
+│   │
+│   └── projects/
+│       ├── Calculator/
+│       │   └── Calculator.java
+│       ├── TicTacToe/
+│       │   └── TicTacToe.java
+│       └── BankingSystem/
+│           └── BankingSystem.java
+│
+└── docs/
+    └── notes.md
+
