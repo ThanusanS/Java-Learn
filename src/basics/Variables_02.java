@@ -6,6 +6,24 @@ class Variables_02{
         String cont= "Thanusan";
         System.out.println(cont);
 
+
+
+        int x = 5, y = 6, z = 50;
+        System.out.println(x + y + z); // 61
+
+
+
+
+
+        // Calculate the Area of a Rectangle
+
+        int length= 6;
+        int width=4;
+        int area;
+
+        area= length* width;
+
+        System.out.println("The area of the rectangle is:" +area);
     }
 }
 
@@ -27,6 +45,16 @@ System.out.println(myNum);
 
 final int myNum = 15;
 myNum = 20;  // will generate an error: cannot assign a value to a final variable
+
+
+// Invalid identifiers:
+int 2ndNumber = 5;  // Cannot start with a digit
+int my var = 10;    // Cannot contain spaces
+int int = 20;       // Cannot use reserved keywords
+
+
+When to Use final?
+You should declare variables as final when their values should never change. For example, the number of minutes in an hour, or your birth year:
 
 
 */
