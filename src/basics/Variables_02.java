@@ -1,4 +1,4 @@
-class Variables{
+class Variables_02{
     public static void main (String[] args)
     {
         int container =67;
