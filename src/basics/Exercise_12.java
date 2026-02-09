@@ -23,7 +23,9 @@ class Exercise_12 {
 
         // use equals() method to compare strings
 
-        String name= "Thanu";
+        Scanner scan1 = new Scanner(System.in);
+        System.out.print("Enter your name: ");
+        String name = scan1.nextLine();
 
         if (name.equals("Thanu")){
             System.out.println("Welcome, Thanu!");
