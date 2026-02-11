@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 class ForLoop_16 {
     public static void main(String[] args) {
 
@@ -34,9 +36,24 @@ class ForLoop_16 {
         for(int i= 1 ; i< 11 ; i++){
         System.out.println(i);
        }
-       
 
-        }
+
+
+
+
+       
+   
+      Scanner scan = new Scanner(System.in);
+      int a = scan.nextInt();
+      int b = scan.nextInt();
+
+
+      for (; a<b; a++){
+        System.out.println(a);
+      }
+
+
+     }
 
 
        
