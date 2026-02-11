@@ -34,8 +34,7 @@ class ForLoop_16 {
         for(int i= 1 ; i< 11 ; i++){
         System.out.println(i);
        }
-
-
+       
 
         }
 
