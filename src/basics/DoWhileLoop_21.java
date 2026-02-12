@@ -9,5 +9,7 @@ class DoWhileLoop_21 {
             System.out.println("Enter the new number>10: ");
             count = scan.nextInt();
         }while(count<10);
+
+        
     }
 }
