@@ -1,4 +1,4 @@
-class Arrays_18 {
+class Arrays_17 {
     public static void main(String[] args) {
 
 
