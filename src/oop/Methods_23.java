@@ -23,5 +23,7 @@ public class Methods_23{
         obj1.greeting();
         obj1.greeting();
         obj1.greeting();
+
+        
     }
 }
