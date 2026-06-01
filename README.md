@@ -25,5 +25,3 @@ A beginner-friendly Java learning repository containing Java programming example
 - Polymorphism
 - Abstraction
 - Interfaces
-
-## 📂 Project Structure
